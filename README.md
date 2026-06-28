@@ -1,4 +1,4 @@
-# Hi, I'm Shahzade 👋
+# Hi, I'm Shahzada 👋
 
 I am a student interested in Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
 
