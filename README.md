@@ -1,47 +1,142 @@
-# Hi, I'm Shahzada 👋
+# Hi, I'm Shahzada Mustafayev 👋
 
-I am a student interested in Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
+I am an Industrial Engineering undergraduate focused on Artificial Intelligence, Machine Learning, and reliable AI systems.
 
-I focus on learning by building real projects step by step, from simple machine learning models to local AI assistant systems.
+My work combines applied machine learning, educational data mining, large language models, local AI assistants, and research-oriented experimentation. I am particularly interested in building AI systems that are not only accurate, but also measurable, reproducible, and aware of their own limitations.
 
-## 🚀 Main Interests
+## Research Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Local AI assistants
-* LLM fine-tuning
-* FastAPI backends
-* RAG systems
-* Feedback and evaluation systems
-* SwiftUI applications
+- Reliable and trustworthy AI
+- AI uncertainty and selective prediction
+- Machine learning evaluation
+- Educational data mining
+- Large language models
+- Retrieval-Augmented Generation
+- Local AI assistants
+- Human-centered AI systems
 
-## 🧠 Main Project: Sahzade AI
+## Featured Research
 
-Sahzade AI is my main AI assistant project.
+### Knowing When Not to Answer
 
-The project is being developed step by step:
+A research project investigating how AI systems can determine when to answer, when to verify, and when to abstain.
 
-* **V1:** LLM fine-tuning with LoRA
-* **V2:** Local FastAPI chat API
-* **V3:** Chat user interface
-* **V4:** Feedback evaluator
-* **V5:** Basic RAG document chat
+The project explores:
 
-The goal is to understand how AI assistants are built, improved, tested, and connected to real applications.
+- confidence estimation
+- uncertainty calibration
+- selective prediction
+- answer verification
+- hallucination reduction
+- abstention strategies
+- reliability evaluation
 
-## 📌 Featured Projects
+Repository:  
+[Knowing When Not to Answer](https://github.com/mstfyvshzde/Knowing-When-Not-to-Answer)
 
-* **Sahzade AI Fine-Tuning** — local LLM fine-tuning experiment using LoRA
-* **Sahzade AI Local Chat API** — FastAPI backend for a local assistant
-* **Sahzade AI Chat UI** — simple chat interface connected to the local API
-* **Sahzade AI RAG Document Chat** — basic document question-answering system
-* **Baku Estate House Price Prediction** — machine learning regression project
-* **Career Path AI** — AI-based career recommendation project
+---
 
-## 🛠️ Tech Stack
+### Adaptive AI Tutor Research Lab
 
-Python, FastAPI, PyTorch, scikit-learn, XGBoost, MLX-LM, SwiftUI
+An applied machine learning research project using real educational data from the EdNet KT1 dataset.
 
-## 🎯 Current Goal
+Key components include:
 
-My current goal is to build a strong AI/ML portfolio and prepare for future master’s applications in Artificial Intelligence or related fields.
+- 500,057 student interactions
+- leakage-aware feature engineering
+- supervised learning baselines
+- dataset-scale experiments
+- feature ablation
+- feature importance analysis
+- error analysis
+- student behavior modeling
+- recommendation strategies
+- reinforcement learning simulation
+
+Best real-data result:
+
+- ROC-AUC: `0.7301`
+- Best model: Gradient Boosting
+- Dataset size: 500,057 interactions
+
+Repository:  
+[Adaptive AI Tutor Research Lab](https://github.com/mstfyvshzde/adaptive-ai-tutor-research-lab)
+
+---
+
+## Selected Projects
+
+- [Baku Estate Price Prediction](https://github.com/mstfyvshzde/baku-estate-price-prediction)
+- [Career Path AI](https://github.com/mstfyvshzde/career-path-ai)
+
+## Technical Skills
+
+### Languages
+
+- Python
+- Swift
+
+### Machine Learning
+
+- scikit-learn
+- PyTorch
+- XGBoost
+- feature engineering
+- predictive modeling
+- model evaluation
+- error analysis
+
+### AI Systems
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- LoRA fine-tuning
+- FastAPI
+- local model inference
+- prompt evaluation
+
+### Research and Engineering
+
+- experiment design
+- reproducible pipelines
+- ablation studies
+- calibration analysis
+- research documentation
+- Git and GitHub
+
+## Education
+
+**BSc in Industrial Engineering**  
+Azerbaijan State Oil and Industry University  
+Expected graduation: 2027
+
+Relevant areas:
+
+- probability and statistics
+- operations research
+- optimization
+- data analysis
+- engineering decision-making
+
+## Certifications
+
+- CS50's Introduction to Artificial Intelligence with Python
+- Machine Learning Specialization
+- Deep Learning Specialization
+- Natural Language Processing Specialization
+- Generative AI with Large Language Models
+- Machine Learning in Production
+
+## Current Focus
+
+I am currently developing a self-verification framework for reliable AI responses.
+
+The central research question is:
+
+> How can an AI system identify when its answer is reliable, when external verification is required, and when it should abstain?
+
+## Contact
+
+- Website: [shahzada.org](https://www.shahzada.org)
+- LinkedIn: [Shahzada Mustafayev](https://www.linkedin.com/in/shahzada-mustafayev)
+- GitHub: [mstfyvshzde](https://github.com/mstfyvshzde)
