@@ -33,7 +33,7 @@ I am currently focused on improving the reliability of AI systems and developing
 
 ## Connect
 
-* GitHub: [github.com/mstfyvshzde](https://github.com/mstfyvshzde)
-* LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/shahzada-mustafayev/)
-* Website: [Add your personal website](https://www.shahzada.org)
-* Email: [mstfyvshzde@gmail.com](mailto:mstfyvshzde@gmail.com)
+* GitHub: [Github](https://github.com/mstfyvshzde)
+* LinkedIn: [Linkedin](https://www.linkedin.com/in/shahzada-mustafayev/)
+* Website: [Website](https://www.shahzada.org)
+* Email: [Gmail](mailto:mstfyvshzde@gmail.com)
