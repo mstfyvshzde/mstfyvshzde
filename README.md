@@ -1,39 +1,35 @@
 # Hi, I'm Shahzada Mustafayev 👋
 
-AI/ML engineer and computer science student focused on building reliable language model systems, local AI assistants, and research-driven machine learning projects.
+Industrial Engineering undergraduate exploring artificial intelligence, machine learning, and research-driven technical projects.
 
 ## About Me
 
-* 🔬 Researching selective question answering, confidence calibration, and reliable abstention
-* 🤖 Building local-first AI assistants and practical LLM applications
-* 🧠 Interested in trustworthy AI, NLP, deep learning, and model evaluation
-* 🛠️ Turning research ideas into reproducible experiments and working systems
+- 🎓 Industrial Engineering undergraduate at Azerbaijan State Oil and Industry University
+- 🔬 Exploring AI/ML through research projects and practical experimentation
+- 🧠 Interested in machine learning, NLP, LLMs, model evaluation, and intelligent systems
+- 📊 Particularly interested in data, experimentation, statistics, and understanding how AI systems behave
+- 🛠️ Developing my research and engineering skills through reproducible projects
 
 ## Featured Work
 
 ### Knowing When Not to Answer
+Research project exploring selective question answering, confidence calibration, verification, and abstention in language models.
 
-A modular research framework for reliable selective question answering through confidence calibration, evidence verification, and abstention policies.
+### Adaptive AI Tutor Research Lab
+Applied machine learning project exploring student performance prediction, recommendation, clustering, and adaptive learning.
 
 ### Shahzada AI
+Experiments with local AI systems, retrieval-augmented generation, and LLM applications.
 
-A local-first personal AI assistant designed around privacy, memory, and modular intelligence.
+## Technical Interests
 
-### Mini Language Model Projects
+`Python` · `Machine Learning` · `Deep Learning` · `NLP` · `LLMs` · `PyTorch` · `Transformers` · `Data Analysis` · `Git`
 
-Experiments involving tokenisation, transformer architecture, fine-tuning, retrieval-augmented generation, and local inference.
+## Currently
 
-## Technical Focus
-
-`Python` · `PyTorch` · `Transformers` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `LLMs` · `RAG` · `FastAPI` · `Git`
-
-## Current Direction
-
-I am currently focused on improving the reliability of AI systems and developing research projects that combine strong experimentation, clear evaluation, and practical implementation.
+I'm currently developing my AI/ML and research skills while working on projects involving model evaluation, multilingual language models, and applied machine learning.
 
 ## Connect
 
-* GitHub: [Github](https://github.com/mstfyvshzde)
-* LinkedIn: [Linkedin](https://www.linkedin.com/in/shahzada-mustafayev/)
-* Website: [Website](https://www.shahzada.org)
-* Email: [Gmail](mailto:mstfyvshzde@gmail.com)
+- Website: [shahzada.org](https://www.shahzada.org)
+- LinkedIn: [Shahzada Mustafayev](https://www.linkedin.com/in/shahzada-mustafayev/)
